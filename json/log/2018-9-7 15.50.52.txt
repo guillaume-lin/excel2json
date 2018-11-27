@@ -1,0 +1,36 @@
+
+==============================================================================
+info: start parsing excel: E:\xbird\CeHua\配置表\平台配置表模板\EXCEL转JSON工具\excel\store.xlsx
+
+******************************************************************************
+info: sheet name: store
+error: cell[3,Y], code: 100, msg: invalid number
+error: cell[3,AA], code: 100, msg: invalid number
+error: cell[4,Y], code: 100, msg: invalid number
+error: cell[4,AA], code: 100, msg: invalid number
+error: cell[5,Y], code: 100, msg: invalid number
+error: cell[5,AA], code: 100, msg: invalid number
+error: cell[6,Y], code: 100, msg: invalid number
+error: cell[6,AA], code: 100, msg: invalid number
+error: cell[7,U], code: 100, msg: invalid number
+error: cell[7,Y], code: 100, msg: invalid number
+error: cell[7,AA], code: 100, msg: invalid number
+error: cell[8,U], code: 100, msg: invalid number
+error: cell[8,Y], code: 100, msg: invalid number
+error: cell[8,AA], code: 100, msg: invalid number
+error: cell[9,U], code: 100, msg: invalid number
+error: cell[9,Y], code: 100, msg: invalid number
+error: cell[9,AA], code: 100, msg: invalid number
+error: cell[10,U], code: 100, msg: invalid number
+error: cell[10,Y], code: 100, msg: invalid number
+error: cell[10,AA], code: 100, msg: invalid number
+error: cell[11,U], code: 100, msg: invalid number
+error: cell[11,Y], code: 100, msg: invalid number
+error: cell[11,AA], code: 100, msg: invalid number
+info: export json success: store.store.json, (total:9, export:0, lose:9)
+
+******************************************************************************
+info: sheet name: Sheet2
+
+******************************************************************************
+info: sheet name: Sheet3

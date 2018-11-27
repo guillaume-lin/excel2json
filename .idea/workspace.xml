@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="a243afc2-1ef6-4c7d-9a9a-290f6190992b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="72" column="59" selection-start-line="72" selection-start-column="59" selection-end-line="72" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glob.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/glob/glob.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ender.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/moment/ender.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/commander/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4256">
+              <caret line="224" column="67" selection-start-line="224" selection-start-column="67" selection-end-line="224" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locales.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/moment/min/locales.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/moment/min/tests.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="xlsx-to-json.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="137" column="25" lean-forward="true" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xlsx.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/xlsx.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138472">
+              <caret line="7288" column="52" selection-start-line="7288" selection-start-column="52" selection-end-line="7288" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lib.es5.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[{}]</find>
+      <find>err</find>
+      <find>defaultCommand</find>
+      <find>dest</find>
+      <find>excel_name</find>
+      <find>json_obj[col_name[i_col]]</find>
+      <find>parseJsonField</find>
+      <find>toJson</find>
+      <find>convert2Date</find>
+      <find>parseBasicArrayField</find>
+      <find>fetchCellValue</find>
+      <find>[]</find>
+      <find>invalid json s</find>
+      <find>INVALID_NUMBER</find>
+      <find>cell[</find>
+      <find>col[</find>
+      <find>parseDateType</find>
+      <find>toBoolean</find>
+      <find>parseObject</find>
+      <find>parseObjectArrayField</find>
+      <find>getObjArrIndex</find>
+      <find>exportArrayObject</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/json/competition_base.json" />
+        <option value="$PROJECT_DIR$/util/utils.js" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/node_modules/glob/glob.js" />
+        <option value="$PROJECT_DIR$/node_modules/commander/index.js" />
+        <option value="$PROJECT_DIR$/lib/xlsx-to-json.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx/node_modules/node-zip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash._baseassign/node_modules/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash._baseassign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash._createassigner/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash._createassigner/node_modules/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash._createassigner/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash.keys/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash.keys/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash.keys/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/node_modules/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._arraymap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._basecallback/node_modules/lodash._baseisequal/node_modules/lodash.istypedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._basecallback/node_modules/lodash._baseisequal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._basecallback/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._basecallback/node_modules/lodash.pairs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._basecallback/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash._baseeach/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash.keys/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash.keys/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/lodash.map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/adler-32/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/cfb/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/node_modules/voc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/codepage/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/crc-32/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/jszip/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/jszip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/ssf/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/ssf/node_modules/frac/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/ssf/node_modules/voc/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/node_modules/ssf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/node-xlsx_new/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="702" />
+    <option name="y" value="200" />
+    <option name="width" value="1080" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EXCEL转JSON工具" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EXCEL转JSON工具" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../版本更新包/公测16期/pack_app" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="app.js" working-dir="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\xbird\CeHua\配置表\平台配置表模板\EXCEL转JSON工具" />
+          <option name="myCopyRoot" value="E:\xbird\CeHua\配置表\平台配置表模板\EXCEL转JSON工具" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\xbird\CeHua\配置表\平台配置表模板\EXCEL转JSON工具" />
+          <option name="myCopyRoot" value="E:\xbird\CeHua\配置表\平台配置表模板\EXCEL转JSON工具" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a243afc2-1ef6-4c7d-9a9a-290f6190992b" name="Default" comment="" />
+      <created>1530534327996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530534327996</updated>
+      <workItem from="1530534330023" duration="7755000" />
+      <workItem from="1530946027145" duration="13422000" />
+      <workItem from="1531879827346" duration="2268000" />
+      <workItem from="1531882705938" duration="186000" />
+      <workItem from="1532331413582" duration="24000" />
+      <workItem from="1532420771827" duration="4943000" />
+      <workItem from="1533007934806" duration="1020000" />
+      <workItem from="1533176497462" duration="4622000" />
+      <workItem from="1533212384709" duration="2828000" />
+      <workItem from="1533372585136" duration="1496000" />
+      <workItem from="1533958626553" duration="676000" />
+      <workItem from="1536308257056" duration="854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13854167" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3401728" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.387689" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Number('NaN') || 0</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Number('NaN')</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Number(NaN)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNaN(+'NaN')</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNaN(+undefined)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNaN(+'undefined')</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNaN(+'null')</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNaN('null')</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isNaN(null)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/min/tests.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5814">
+          <caret line="306" column="26" selection-start-line="306" selection-start-column="26" selection-end-line="306" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/xlsx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138130">
+          <caret line="7270" column="17" selection-start-line="7270" selection-start-column="17" selection-end-line="7270" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19057">
+          <caret line="1003" column="52" selection-start-line="1003" selection-start-column="52" selection-end-line="1003" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16188">
+          <caret line="852" lean-forward="true" selection-start-line="852" selection-end-line="852" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19057">
+          <caret line="1003" column="52" lean-forward="true" selection-start-line="1003" selection-start-column="52" selection-end-line="1003" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15542">
+          <caret line="818" column="41" lean-forward="true" selection-start-line="818" selection-start-column="41" selection-end-line="818" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18563">
+          <caret line="977" column="7" selection-start-line="977" selection-start-column="7" selection-end-line="977" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18563">
+          <caret line="977" column="7" selection-start-line="977" selection-start-column="7" selection-end-line="977" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18563">
+          <caret line="977" column="7" selection-start-line="977" selection-start-column="7" selection-end-line="977" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8094">
+          <caret line="426" lean-forward="true" selection-start-line="426" selection-end-line="426" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18563">
+          <caret line="977" column="7" selection-start-line="977" selection-start-column="7" selection-end-line="977" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2603">
+          <caret line="137" column="42" lean-forward="true" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10792">
+          <caret line="568" column="57" selection-start-line="568" selection-start-column="47" selection-end-line="568" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/competition_reward_base.json" />
+    <entry file="file://$PROJECT_DIR$/json/competition_base.json" />
+    <entry file="file://$PROJECT_DIR$/json/competition_schedule_base.json" />
+    <entry file="file://$PROJECT_DIR$/json/log/2018-5-16 15.23.33.txt" />
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/glob/glob.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/ender.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="59" selection-start-line="72" selection-start-column="59" selection-end-line="72" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/commander/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4256">
+          <caret line="224" column="67" selection-start-line="224" selection-start-column="67" selection-end-line="224" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-xlsx_new/node_modules/xlsx/xlsx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138472">
+          <caret line="7288" column="52" selection-start-line="7288" selection-start-column="52" selection-end-line="7288" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/min/tests.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/min/locales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/xlsx-to-json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="137" column="25" lean-forward="true" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

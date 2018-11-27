@@ -1,0 +1,7 @@
+{
+    "xlsx": {
+        "src": "./excel/**/[^~$]*.xlsx",
+        "dest": "./json",
+        "log": "./json/log"
+    }
+}
